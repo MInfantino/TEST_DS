@@ -1,0 +1,47 @@
+,columns,ranking,rfe_support
+0,KIDSDRIV,1,True
+1,AGE,9,False
+2,HOMEKIDS,16,False
+3,YOJ,12,False
+4,INCOME,1,True
+5,HOME_VAL,1,True
+6,TRAVTIME,1,True
+7,BLUEBOOK,1,True
+8,TIF,1,True
+9,OLDCLAIM,1,True
+10,CLM_FREQ,1,True
+11,MVR_PTS,1,True
+12,CAR_AGE,18,False
+13,CAR_TYPE_Minivan,2,False
+14,CAR_TYPE_Panel Truck,26,False
+15,CAR_TYPE_Pickup,28,False
+16,CAR_TYPE_Sports Car,7,False
+17,CAR_TYPE_Van,29,False
+18,CAR_TYPE_z_SUV,11,False
+19,RED_CAR_no,24,False
+20,RED_CAR_yes,23,False
+21,URBANICITY_Highly Urban/ Urban,1,True
+22,URBANICITY_z_Highly Rural/ Rural,1,True
+23,MSTATUS_Yes,6,False
+24,MSTATUS_z_No,27,False
+25,SEX_M,30,False
+26,SEX_z_F,22,False
+27,CAR_USE_Commercial,10,False
+28,CAR_USE_Private,1,True
+29,JOB_Clerical,17,False
+30,JOB_Doctor,3,False
+31,JOB_Home Maker,21,False
+32,JOB_Lawyer,32,False
+33,JOB_Manager,1,True
+34,JOB_Professional,31,False
+35,JOB_Student,20,False
+36,JOB_z_Blue Collar,19,False
+37,PARENT1_No,1,True
+38,PARENT1_Yes,25,False
+39,EDUCATION_<High School,5,False
+40,EDUCATION_Bachelors,15,False
+41,EDUCATION_Masters,13,False
+42,EDUCATION_PhD,14,False
+43,EDUCATION_z_High School,4,False
+44,REVOKED_No,1,True
+45,REVOKED_Yes,8,False
